@@ -1,0 +1,4 @@
+In Python you can store data in variables.
+In Python you can create lists, dictionaries, and tuples.
+In Python you can write loops and conditional statements.
+In Python you can define functions and create classes.
